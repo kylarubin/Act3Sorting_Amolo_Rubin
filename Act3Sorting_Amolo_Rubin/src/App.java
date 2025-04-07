@@ -59,6 +59,5 @@ public class App {
         for (Student student : students) {
             System.out.println(student);
         }
-        scanner.close();
     }
 }
